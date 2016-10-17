@@ -1,4 +1,5 @@
 ﻿@import url(../Content/bootstrap.min.css);
+@import url(../Content/themes/base/jquery-ui.min.css);
 
 /* Components */
 @import url(Components/navbar.css);
